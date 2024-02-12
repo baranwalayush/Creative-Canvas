@@ -17,6 +17,20 @@ body {
 	background: linear-gradient(to bottom, #ee0979, #ff6a00);
 }
 
+.wrapper {
+    overflow: hidden;
+    position: absolute;
+    left: 111px;
+    right: 0;
+    bottom: 0px;
+    top: -19px;
+    margin: auto;
+}
+
+.wrapper ul li {
+    color: rgb(31, 216, 204);
+}
+
 .card {
 	margin: 100px auto 0;
 	width: 400px;
