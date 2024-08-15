@@ -35,8 +35,4 @@ To start using the Painting Website, simply open the application in your browser
 - **Frontend**: HTML, CSS, JavaScript
 - **FrameWork Used**: TailWind CSS for colour management and shape rendering
 
-## Reference
-
-This painting website is inspired by a project "Paint App using JS" by "CodingNepal" which provides the foundational libraries and components used to build this application.
-
 
